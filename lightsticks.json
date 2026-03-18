@@ -1,7 +1,16 @@
-{
-  "id": "1",
-  "name": "BLACKPINK VER.2 RENEWED",
-  "category": "girls",
-  "thumbnail": "https://i.imgur.com/UUOQAad.jpeg",
-  "fullImage": "https://i.imgur.com/UUOQAad.jpeg"
-}
+[
+  {
+    "id": "1",
+    "name": "BLACKPINK VER.2 RENEWED",
+    "category": "girls",
+    "thumbnail": "https://i.imgur.com/UUOQAad.jpeg",
+    "fullImage": "https://i.imgur.com/UUOQAad.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "STRAY KIDS VER.2",
+    "category": "boys",
+    "thumbnail": "https://i.imgur.com/UUOQAad.jpeg",
+    "fullImage": "https://i.imgur.com/UUOQAad.jpeg"
+  }
+]
