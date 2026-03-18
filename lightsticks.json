@@ -1,0 +1,5 @@
+[
+  { "id": "1", "name": "BLACKPINK VER.2 RENEWED", "category": "girls", "thumbnail": "https://blogger.googleusercontent.com/img/a/AVvXsEiAKcDYScb0ppYcWRSutwJI3VTb3eGKuGw9PWmGLHz0q5pbkoAPKxMUvLQU7e7I_Hvbp9k8MWpG_Xkfe2AYY6h8F-MDmdQoQFwMDGFMcTk0H123fb6jLPIv-5L5mH9O0HCFzJ2OA-siINTsqR7UCEKxiH2g-Z4RJDeo8YU9lS9C0fBSi1Zn_eIkSsnkgMc6", "fullImage": "https://blogger.googleusercontent.com/img/a/AVvXsEiAKcDYScb0ppYcWRSutwJI3VTb3eGKuGw9PWmGLHz0q5pbkoAPKxMUvLQU7e7I_Hvbp9k8MWpG_Xkfe2AYY6h8F-MDmdQoQFwMDGFMcTk0H123fb6jLPIv-5L5mH9O0HCFzJ2OA-siINTsqR7UCEKxiH2g-Z4RJDeo8YU9lS9C0fBSi1Zn_eIkSsnkgMc6" },
+  { "id": "2", "name": "STRAY KIDS VER.2", "category": "boys", "thumbnail": "https://example.com/skz_thumb.jpg", "fullImage": "https://example.com/skz_full.jpg" }
+  // ... Add all 97 entries here
+]
