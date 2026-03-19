@@ -1,80 +1,80 @@
 [
   {
     "id": "1",
-    "name": "BLACKPINK VER.2 RENEWED",
+    "name": "KATSEYE",
     "category": "girls",
-    "thumbnail": "https://i.imgur.com/63Z7EzZ.png",
-    "fullImage": "https://i.imgur.com/63Z7EzZ.png"
+    "thumbnail": "https://i.imgur.com/bAZBabs.png",
+    "fullImage": "https://i.imgur.com/bAZBabs.png"
   },
   {
     "id": "2",
     "name": "STRAY KIDS VER.2",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/8vodmAH.png",
-    "fullImage": "https://i.imgur.com/8vodmAH.png"
+    "thumbnail": "https://i.imgur.com/XAL6PbG.png",
+    "fullImage": "https://i.imgur.com/XAL6PbG.png"
   },
   {
     "id": "3",
     "name": "ATEEZ VER.2",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/f1iDsA7.png",
-    "fullImage": "https://i.imgur.com/f1iDsA7.png"
+    "thumbnail": "https://i.imgur.com/wK1i6f1.png",
+    "fullImage": "https://i.imgur.com/wK1i6f1.png"
   },
   {
     "id": "4",
     "name": "ENHYPEN VER.2",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder4.png",
-    "fullImage": "https://i.imgur.com/placeholder4.png"
+    "thumbnail": "https://i.imgur.com/BejhS2G.png",
+    "fullImage": "https://i.imgur.com/BejhS2G.png"
   },
   {
     "id": "5",
     "name": "NCT",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder5.png",
-    "fullImage": "https://i.imgur.com/placeholder5.png"
+    "thumbnail": "https://i.imgur.com/76hFG97.png",
+    "fullImage": "https://i.imgur.com/76hFG97.png"
   },
   {
     "id": "6",
     "name": "G-DRAGON (BIGBANG)",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder6.png",
-    "fullImage": "https://i.imgur.com/placeholder6.png"
+    "thumbnail": "https://i.imgur.com/J0oFV0a.png",
+    "fullImage": "https://i.imgur.com/J0oFV0a.png"
   },
   {
     "id": "7",
     "name": "BIGBANG V.4",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder7.png",
-    "fullImage": "https://i.imgur.com/placeholder7.png"
+    "thumbnail": "https://i.imgur.com/u40fSyE.png",
+    "fullImage": "https://i.imgur.com/u40fSyE.png"
   },
   {
     "id": "8",
     "name": "EXO - OFFICIAL FANLIGHT",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder8.png",
-    "fullImage": "https://i.imgur.com/placeholder8.png"
+    "thumbnail": "https://i.imgur.com/MnCyQKa.png",
+    "fullImage": "https://i.imgur.com/MnCyQKa.png"
   },
   {
     "id": "9",
     "name": "SHINEE",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder9.png",
-    "fullImage": "https://i.imgur.com/placeholder9.png"
+    "thumbnail": "https://i.imgur.com/Kg63F4M.png",
+    "fullImage": "https://i.imgur.com/Kg63F4M.png"
   },
   {
     "id": "10",
     "name": "XDINARY HEROES",
     "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder10.png",
-    "fullImage": "https://i.imgur.com/placeholder10.png"
+    "thumbnail": "https://i.imgur.com/ANlgCK8.png",
+    "fullImage": "https://i.imgur.com/ANlgCK8.png"
   },
   {
     "id": "11",
     "name": "NEWJEANS",
     "category": "girls",
-    "thumbnail": "https://i.imgur.com/placeholder11.png",
-    "fullImage": "https://i.imgur.com/placeholder11.png"
+    "thumbnail": "https://i.imgur.com/tOg4xqb.png",
+    "fullImage": "https://i.imgur.com/tOg4xqb.png"
   },
   {
     "id": "12",
@@ -554,128 +554,9 @@
   },
   {
     "id": "80",
-    "name": "KATSEYE",
+    "name": "BLACKPINK VER.2 RENEWED",
     "category": "girls",
-    "thumbnail": "https://i.imgur.com/placeholder80.png",
-    "fullImage": "https://i.imgur.com/placeholder80.png"
-  },
-  {
-    "id": "81",
-    "name": "ARTMS",
-    "category": "girls",
-    "thumbnail": "https://i.imgur.com/placeholder81.png",
-    "fullImage": "https://i.imgur.com/placeholder81.png"
-  },
-  {
-    "id": "82",
-    "name": "P1HARMONY",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder82.png",
-    "fullImage": "https://i.imgur.com/placeholder82.png"
-  },
-  {
-    "id": "83",
-    "name": "WONHO",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder83.png",
-    "fullImage": "https://i.imgur.com/placeholder83.png"
-  },
-  {
-    "id": "84",
-    "name": "BABYMONSTER",
-    "category": "girls",
-    "thumbnail": "https://i.imgur.com/placeholder84.png",
-    "fullImage": "https://i.imgur.com/placeholder84.png"
-  },
-  {
-    "id": "85",
-    "name": "DAESUNG (BIGBANG)",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder85.png",
-    "fullImage": "https://i.imgur.com/placeholder85.png"
-  },
-  {
-    "id": "86",
-    "name": "TXT KEYRING",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder86.png",
-    "fullImage": "https://i.imgur.com/placeholder86.png"
-  },
-  {
-    "id": "87",
-    "name": "SUPER JUNIOR VER.2.0",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder87.png",
-    "fullImage": "https://i.imgur.com/placeholder87.png"
-  },
-  {
-    "id": "88",
-    "name": "BIBI",
-    "category": "girls",
-    "thumbnail": "https://i.imgur.com/placeholder88.png",
-    "fullImage": "https://i.imgur.com/placeholder88.png"
-  },
-  {
-    "id": "89",
-    "name": "BTOB VER.3",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder89.png",
-    "fullImage": "https://i.imgur.com/placeholder89.png"
-  },
-  {
-    "id": "90",
-    "name": "WAYV (ALT)",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder90.png",
-    "fullImage": "https://i.imgur.com/placeholder90.png"
-  },
-  {
-    "id": "91",
-    "name": "SUPERM",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder91.png",
-    "fullImage": "https://i.imgur.com/placeholder91.png"
-  },
-  {
-    "id": "92",
-    "name": "BANG JUNG YOO MOON",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder92.png",
-    "fullImage": "https://i.imgur.com/placeholder92.png"
-  },
-  {
-    "id": "93",
-    "name": "IU VER.3 I-KE",
-    "category": "girls",
-    "thumbnail": "https://i.imgur.com/placeholder93.png",
-    "fullImage": "https://i.imgur.com/placeholder93.png"
-  },
-  {
-    "id": "94",
-    "name": "N.FLYING - STICK",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder94.png",
-    "fullImage": "https://i.imgur.com/placeholder94.png"
-  },
-  {
-    "id": "95",
-    "name": "WOODZ VER.2",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder95.png",
-    "fullImage": "https://i.imgur.com/placeholder95.png"
-  },
-  {
-    "id": "96",
-    "name": "FROMIS_9",
-    "category": "girls",
-    "thumbnail": "https://i.imgur.com/placeholder96.png",
-    "fullImage": "https://i.imgur.com/placeholder96.png"
-  },
-  {
-    "id": "97",
-    "name": "XIKERS",
-    "category": "boys",
-    "thumbnail": "https://i.imgur.com/placeholder97.png",
-    "fullImage": "https://i.imgur.com/placeholder97.png"
+    "thumbnail": "https://i.imgur.com/63Z7EzZ.png",
+    "fullImage": "https://i.imgur.com/63Z7EzZ.png"
   }
 ]
